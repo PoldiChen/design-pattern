@@ -4,7 +4,7 @@
  */
 package singleton.lazy.inner;
 
-import singleton.lazy.Singleton;
+import singleton.lazy.simple.Singleton;
 
 /** 
  * Class: Test

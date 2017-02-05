@@ -1,14 +1,12 @@
 /**
  * created by PoldiChen
- * date 2017年2月5日 下午9:53:08
+ * date 2017年2月5日 下午9:51:34
  */
-package singleton.lazy.syn;
-
-import singleton.lazy.simple.Singleton;
+package singleton.lazy.simple;
 
 /** 
  * Class: Test
- * date: 2017年2月5日 下午9:53:08
+ * date: 2017年2月5日 下午9:51:34
  * @author PoldiChen
  * @version  
  * @since JDK 1.8
