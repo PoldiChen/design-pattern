@@ -1,12 +1,12 @@
 /**
  * created by PoldiChen
- * date 2017Äê2ÔÂ7ÈÕ ÏÂÎç9:37:17
+ * date 2017å¹´2æœˆ7æ—¥ ä¸‹åˆ9:37:17
  */
 package factory.method;
 
 /** 
  * Class: People
- * date: 2017Äê2ÔÂ7ÈÕ ÏÂÎç9:37:17
+ * date: 2017å¹´2æœˆ7æ—¥ ä¸‹åˆ9:37:17
  * @author PoldiChen
  * @version  
  * @since JDK 1.8
